@@ -1,0 +1,24 @@
+.heading{
+    font-size: 25px;
+    font-weight: 900;
+    font-family: tahoma;
+    color: rgb(5, 47, 5) ;
+    
+}
+.heading a{
+    color:rgb(5, 47, 5) ;  
+}
+
+.mainbox  .box{
+    padding: 10px;
+   
+}
+
+.mainbox  .box1{
+    padding: 10px;
+    border-left:1px solid rgb(9, 124, 28);
+}
+.icon span{
+    padding: 10px;
+    font-size:25px;
+}
